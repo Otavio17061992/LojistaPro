@@ -1,11 +1,44 @@
 @page
-@model LojistaPro.Pages.Cadastro.Index
+@model LojistaPro.Pages.Cadastro.IndexModel
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Cadastro";
+    Layout = "_Layout";
 }
 
-<h1>@ViewData["Title"]</h1>
 
-<div>
-    
+<div class="login-bg">
+    <div class="login-card">
+        <div class="login-title">
+            <h2>@ViewData["Title"]</h2>
+        </div>
+        <form method="post" asp-page-handler="Cadastro">
+            <div class="form-group">
+                <label asp-for="Input.UserName">Usuário</label>
+                <input asp-for="Input.UserName" class="form-control" autocomplete="username" />
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="Input.Password">Senha</label>
+                <input asp-for="Input.Password" type="password" class="form-control" autocomplete="new-password" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Input.ConfirmPassword">Confirmação de Senha</label>
+                <input asp-for="Input.ConfirmPassword" type="password" class="form-control"
+                    autocomplete="new-password" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Input.Email">Email</label>
+                <input asp-for="Input.Email" type="email" class="form-control" autocomplete="email" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Input.PhoneNumber">Telefone</label>
+                <input asp-for="Input.PhoneNumber" type="tel" class="form-control" autocomplete="tel" />
+            </div>
+            <br />
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Registrar</button>
+                <span asp-validation-summary="All" class="text-danger"></span>
+            </div>
+        </form>
+    </div>
 </div>

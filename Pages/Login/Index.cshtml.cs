@@ -18,12 +18,12 @@ public class IndexModel : PageModel
     }
 
     [BindProperty]
-    public InputModel Input { get; set; }
+    public InputModel Input { get; set; } = new();
 
     public class InputModel
     {
-        public string UserName { get; set; }
-        public string Passaword { get; set; }
+        public string UserName { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
     }
     public void OnGet()
     {
@@ -36,7 +36,7 @@ public class IndexModel : PageModel
             return Page();
         }
 
-        var result = await _signInManager.PasswordSignInAsync(Input.UserName, Input.Passaword, false, false);
+        var result = await _signInManager.PasswordSignInAsync(Input.UserName, Input.Password, false, false);
 
         if (result.Succeeded)
         {

@@ -232,5 +232,6 @@
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/ref/LojistaPro.dll
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/LojistaPro.sourcelink.json
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/djg262tcjy-w368847td5.gz
-/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/mek9gntspq-r4u8xbvb5m.gz
-/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/tohlidhq2x-r4u8xbvb5m.gz
+/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/scopedcss/Pages/Cadastro/Index.cshtml.rz.scp.css
+/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/mek9gntspq-jujffnbsy8.gz
+/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/tohlidhq2x-jujffnbsy8.gz

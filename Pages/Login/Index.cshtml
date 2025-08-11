@@ -14,11 +14,18 @@
                 <input asp-for="Input.UserName" class="form-control" autocomplete="username" />
             </div>
             <div class="form-group">
-                <label asp-for="Input.Passaword">Senha</label>
-                <input asp-for="Input.Passaword" type="password" class="form-control" autocomplete="current-password" />
+                <label asp-for="Input.Password">Senha</label>
+                <input asp-for="Input.Password" type="password" class="form-control" autocomplete="current-password" />
             </div>
-            <button type="submit" class="btn btn-primary">Entrar</button>
-            <span asp-validation-summary="All" class="text-danger"></span>
+            <br />
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Entrar</button>
+                <span asp-validation-summary="All" class="text-danger"></span>
+
+                <div class="form-group">
+                    <a asp-page="/Cadastro/Index" class="btn btn-secondary">Registrar</a>
+                </div>
+            </div>
         </form>
     </div>
 </div>
