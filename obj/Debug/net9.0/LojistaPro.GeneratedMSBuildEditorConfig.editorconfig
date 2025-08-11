@@ -28,6 +28,14 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/Pages/Cadastro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FkYXN0cm8vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/Pages/Cadastro/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FkYXN0cm8vX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

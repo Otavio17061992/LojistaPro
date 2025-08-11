@@ -159,7 +159,6 @@
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/scopedcss/bundle/LojistaPro.styles.css
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/scopedcss/projectbundle/LojistaPro.bundle.scp.css
-/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/djg262tcjy-b9sayid5wm.gz
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/pzaulyz91e-61n19gt1b8.gz
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/r1cyumw3lf-xtxxf3hu2r.gz
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/lgrft29sw8-bqjiyaj88i.gz
@@ -221,8 +220,6 @@
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/84oxzxfxn2-muycvpuwrr.gz
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/j6pdojhc2q-87fc7y1x7t.gz
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/6f2p4by5dx-mlv21k5csn.gz
-/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/mek9gntspq-68b0x0via0.gz
-/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/tohlidhq2x-68b0x0via0.gz
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/staticwebassets.build.json
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/staticwebassets.build.json.cache
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/staticwebassets.development.json
@@ -233,3 +230,7 @@
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/LojistaPro.pdb
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/LojistaPro.genruntimeconfig.cache
 /Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/ref/LojistaPro.dll
+/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/LojistaPro.sourcelink.json
+/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/djg262tcjy-w368847td5.gz
+/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/mek9gntspq-r4u8xbvb5m.gz
+/Users/macbookair/Projetos/ProjetosUtils/LojistaPro/obj/Debug/net9.0/compressed/tohlidhq2x-r4u8xbvb5m.gz
